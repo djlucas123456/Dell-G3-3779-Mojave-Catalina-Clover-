@@ -41,7 +41,7 @@
 
 	- Full CPU manager support
 	- Added kext to correct memory pointer
-	- Full speed SATA3 and MNVE SSD
+	- Full speed SATA3 and NVMe SSD
 	- Functional sleep mode when closed
 	- Replace FAKESMC with VirtualSMC
 	- Trackpad supports gestures. Works on VoodooI2C (If you have trouble booting, delete the VoodooI2C + VoodooI2CHID and ApplePS2SmartTouchPad files from the Clover-Kext-Others folder and replace it with VoodooPS2Controller). Trackpad works better on VoodooI2C than on VoodooPS2Controller
