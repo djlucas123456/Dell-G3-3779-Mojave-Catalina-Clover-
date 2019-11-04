@@ -44,7 +44,7 @@
 	- Full speed SATA3 and NVMe SSD
 	- Functional sleep mode when closed
 	- Replace FAKESMC with VirtualSMC
-	- Trackpad supports gestures. Works on VoodooI2C (If you have trouble booting, delete the VoodooI2C + VoodooI2CHID and ApplePS2SmartTouchPad files from the Clover-Kext-Others folder and replace it with VoodooPS2Controller). Trackpad works better on VoodooI2C than on VoodooPS2Controller
+	- Trackpad supports gestures. Works on VoodooI2C (If you have trouble booting the system. Delete the VoodooI2C + VoodooI2CHID files from the Clover-Kext-Others folder). Trackpad works better on VoodooI2C than on VoodooPS2Controller
 	
 # Untest or Not Working
 * SD Reader 
