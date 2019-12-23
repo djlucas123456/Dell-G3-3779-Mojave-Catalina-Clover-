@@ -1,3 +1,5 @@
+# UPDATE 23.12.2019!! Update VoodooPS2 and Voodooi2C (Boot Kernel Panic Fix)
+
 # Dell G3-3779 Hackintosh Mojave Clover
 
 # Hardware Configuration
@@ -44,13 +46,10 @@
 	- Full speed SATA3 and NVMe SSD
 	- Functional sleep mode when closed
 	- Replace FAKESMC with VirtualSMC
-	- Trackpad supports gestures. Works on VoodooI2C (If you have trouble booting the system. Delete the VoodooI2C + VoodooI2CHID files from the Clover-Kext-Others folder). Trackpad works better on VoodooI2C than on VoodooPS2Controller
+	- Trackpad supports gestures. Works on VoodooI2C
 	
 # Untest or Not Working
 * SD Reader 
 * AC9462 WIFI (Must be replaced with DW1560 or DW1820a)
-* GTX1060(blocked) 
-
-# Known Issue
-* I haven't tried HDMI
-* Trackpad with VoodooI2C drivers is still in solution to avoid panic kernel! But I have to say that it works fine for me now.
+* GTX 1050 (blocked) 
+* HDMI not work
