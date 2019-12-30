@@ -1,3 +1,5 @@
+* 30.12.2019!!	You can update to Catalina via AppStore! Tried and everything functional and no problem. You can also use the. clover folder for a clean Catalina installation.
+
 * 23.12.2019!! Update VoodooPS2 and Voodooi2C (Boot Kernel Panic Fix)
 
 # Dell G3-3779 Hackintosh Mojave Clover
