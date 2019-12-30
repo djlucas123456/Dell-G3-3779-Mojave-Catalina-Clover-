@@ -1,6 +1,6 @@
 * 30.12.2019!!	You can update to Catalina via AppStore! Tried and everything functional and no problem. You can also use the. clover folder for a clean Catalina installation.
 
-I recommend to replace wifi card here video my work: https://www.youtube.com/watch?v=tED-_RBGmes&t=16s
+	I recommend to replace wifi card here video my work: https://www.youtube.com/watch?v=tED-_RBGmes&t=16s
 	
 	- bluetooth no problem even after sleep
 	- Apple Watch unlock
