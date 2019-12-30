@@ -1,4 +1,4 @@
-# 23.12.2019!! Update VoodooPS2 and Voodooi2C (Boot Kernel Panic Fix)
+* 23.12.2019!! Update VoodooPS2 and Voodooi2C (Boot Kernel Panic Fix)
 
 # Dell G3-3779 Hackintosh Mojave Clover
 
