@@ -1,3 +1,5 @@
+# Dell G3-3779 Hackintosh Mojave and Catalina Clover
+
 * 30.12.2019!!	You can update to Catalina via AppStore! Tried and everything functional and no problem. You can also use the. clover folder for a clean Catalina installation.
 
 	I recommend to replace wifi card here video my work: https://www.youtube.com/watch?v=tED-_RBGmes&t=16s
@@ -5,12 +7,12 @@
 	- bluetooth no problem even after sleep
 	- Apple Watch unlock
 	- Sidecar
+	- Airdrop
 	- Wifi 2,4Ghz, 5Ghz
 	- you don't need any drivers or config.plist settings
+	- etc...
 	
 * 23.12.2019!! Update VoodooPS2 and Voodooi2C (Boot Kernel Panic Fix)
-
-# Dell G3-3779 Hackintosh Mojave and Catalina Clover
 
 # Hardware Configuration
 * i5 8300H 
@@ -61,6 +63,6 @@
 	
 # Untest or Not Working
 * SD Reader 
-* AC9462 WIFI (Must be replaced with DW1560 or DW1820a)
+* AC9462 WIFI (Must be replaced)
 * GTX 1050 (blocked) 
 * HDMI not work
