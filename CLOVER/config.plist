@@ -447,7 +447,7 @@
 		<key>AppleRTC</key>
 		<true/>
 		<key>DellSMBIOSPatch</key>
-		<false/>
+		<true/>
 		<key>ForceKextsToLoad</key>
 		<array>
 			<string>\System\Library\Extensions\IONetworkingFamily.kext</string>
@@ -601,17 +601,17 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>06/26/2018</string>
+		<string>12/09/2019</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>MBP151.88Z.0178.B00.1806260902</string>
+		<string>MBP151.88Z.F000.B00.1912090131</string>
 		<key>Board-ID</key>
 		<string>Mac-937A206F2EE63C01</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02824306CDJP4F1M</string>
+		<string>C02906207GUJP4F1M</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -623,7 +623,7 @@
 		<key>ChassisType</key>
 		<string>0x09</string>
 		<key>EfiVersion</key>
-		<string>220.200.252.0.0</string>
+		<string>1037.80.21.0.0</string>
 		<key>Family</key>
 		<string>MacBook Pro</string>
 		<key>FirmwareFeatures</key>
@@ -637,15 +637,15 @@
 		<key>Mobile</key>
 		<true/>
 		<key>PlatformFeature</key>
-		<string>0x1A</string>
+		<string>0x02</string>
 		<key>ProductName</key>
 		<string>MacBookPro15,1</string>
 		<key>ProductName-Comment</key>
 		<string>Using Haswell MacBookAir6,2 until Clover has support for KabyLake identifiers</string>
 		<key>SerialNumber</key>
-		<string>C02WV0VQKGYG</string>
+		<string>C02Y7QZGKGYG</string>
 		<key>SmUUID</key>
-		<string>6BCBF36D-37CF-4D49-BBEA-28DA89440EE5</string>
+		<string>C2B82E75-9BA8-405A-82C6-758024283BDA</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
