@@ -1,5 +1,10 @@
 # Dell G3-3779 Hackintosh Mojave and Catalina Clover
 
+* 22.01.2020!!	
+	- added installer EFI folders on Mojave and Catalina
+	- deleted unnecessary extra files.
+	- Added DellSMBIOS Patch to config.plist. Improved NVRAM functionality and solutions to minor problems.
+	
 * 30.12.2019!!	You can update to Catalina via AppStore! Tried and everything functional and no problem. You can also use the. clover folder for a clean Catalina installation.
 
 	I recommend to replace wifi card here video my work: https://www.youtube.com/watch?v=tED-_RBGmes&t=16s
