@@ -1,5 +1,14 @@
 # Dell G3-3779 Hackintosh Mojave and Catalina Clover
 
+* 12.04.2020!!
+
+	- You can safely update to 10.15.4 through settings and updates
+	  (just run the update and let everything go smoothly.)
+	
+	- Update Clover (5109)
+	- Update Kext (Last version)
+	- Change ALC Layout ID to 54 (fix sound after sleep)
+	
 * 22.01.2020!!	
 	- added installer EFI folders on Mojave and Catalina
 	- deleted unnecessary extra files.
