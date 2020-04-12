@@ -2,9 +2,7 @@
 
 * 12.04.2020!!
 
-	- You can safely update to 10.15.4 through settings and updates
-	  (just run the update and let everything go smoothly.)
-	
+	- You can safely update to 10.15.4 through settings and updates (just run the update and let everything go smoothly.)
 	- Update Clover (5109)
 	- Update Kext (Last version)
 	- Change ALC Layout ID to 54 (fix sound after sleep)
