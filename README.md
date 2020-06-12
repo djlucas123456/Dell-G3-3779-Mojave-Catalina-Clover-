@@ -1,5 +1,9 @@
 # Dell G3-3779 Hackintosh Mojave and Catalina Clover
 
+* 12.06.2020!!
+
+	- update to 10.15.5
+	
 * 12.04.2020!!
 
 	- You can safely update to 10.15.4 through settings and updates (just run the update and let everything go smoothly.)
